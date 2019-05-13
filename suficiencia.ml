@@ -1,4 +1,4 @@
-(*Oscar Ortiz Gajardo, entra el 14 de marzo*)
+(*Oscar Ortiz Gajardo, 4/03/2018*)
 (*documentación para funciones de lab3 https://ocaml.github.io/ocamlunix/ocamlunix.html*)
 (*documentación para la lecturia de archivo https://rosettacode.org/wiki/Read_entire_file#OCaml*)
 
